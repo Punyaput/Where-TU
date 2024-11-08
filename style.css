@@ -388,6 +388,7 @@ html, body {
     }
     .result-box-cover {
         margin-top: 5px;
+        transition: 0.5s;
     }
     .result-box {
         max-height: 300px;
@@ -467,26 +468,6 @@ html, body {
         flex-direction: column;
         overflow: auto;
     }
-
-    .send-feedback-button {
-        height: 50px;
-        width: 100%;
-        font-size: 1rem;
-        margin-top: 30px;
-        border: 2px solid #ddd;
-        border-radius: 10px;        
-        background-color: #FFD83E;    
-        color: #FFFFFF;
-        font-weight: 600;
-        transition: all 0.3s ease;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
-        outline: none;
-        padding: 10px 10px 10px 10px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        align-self: center;
-    }
     .info-building-image {
         display: flex;
         justify-content: center;
@@ -505,7 +486,7 @@ html, body {
     .info-container {
         width: 100%;
         height: 100svh;
-        background-color: #FFFFFF;
+        background-color:#FFFFFF;
         overflow: auto;
         touch-action: auto;
         position: relative;
@@ -665,6 +646,7 @@ html, body {
         height: 0px;
         margin-top: 5px;
         margin-left: 30px;
+        transition: 0.5s;
     }
     .result-box {
         max-height: 300px;
@@ -736,25 +718,6 @@ html, body {
         box-shadow: 5px 0px 5px rgba(0,0,0,0.2);
         display: flex;
         flex-direction: column;
-    }
-    .send-feedback-button {
-        height: 50px;
-        width: 100%;
-        font-size: 1rem;
-        margin-top: 30px;
-        border: 2px solid #ddd;
-        border-radius: 10px;        
-        background-color: #FFD83E;  
-        color: #FFFFFF;
-        font-weight: 600;
-        transition: all 0.3s ease;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
-        outline: none;
-        padding: 10px 10px 10px 10px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        align-self: center;
     }
     .info-building-image {
         display: flex;
@@ -1048,6 +1011,26 @@ html, body {
   justify-content: center;
   color: aliceblue;
 }
+.send-feedback-button {
+    height: 50px;
+    width: 100%;
+    font-size: 1rem;
+    margin-top: 30px;
+    border: 2px solid #ddd;
+    border-radius: 10px;        
+    background-color: #FFD83E;    
+    color: #FFFFFF;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    outline: none;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    cursor: pointer;
+}
 
 @keyframes fadeIn {
   to {
@@ -1122,4 +1105,98 @@ html, body {
   }
 }
 
-
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #ddd;
+        background-color: #222;
+    }
+    .side-bar {
+        background-color: #131313;
+    }
+    .info-container {
+        color: #ddd;
+        background-color: #222;
+    }
+    .info-box-maplink {
+        background-color: #454545;
+    }
+    .search-bar {
+        background-color: rgba(123, 123, 123, 0.6);
+    }
+    .result-box ul li{
+        background-color: rgba(123, 123, 123, 0.6);
+    }
+    #input-box {
+        color: #ddd;
+    }
+    .info-text-maplink {
+        color: #3490ff;
+    }
+    #map-container {
+        background-color: #222;
+    }
+    .cls-20 {
+        fill: #222;
+    }
+    .cls-8 {
+        fill: #ff93348e;
+        stroke: #ffb71b;
+    }
+    .cls-21 {
+        fill: #003609;
+    }
+    .cls-2 {
+        fill: #003609;
+    }
+    .cls-22 {
+        fill: #370300;
+    }
+    .cls-7 {
+        fill: #006d8b;
+        stroke: #008fc3;
+    }
+    .cls-3, .cls-6 {
+        fill: #444;
+    }
+    .cls-19 {
+        color: #ddd;
+    }
+    /* .side-bar-button-icon {
+        color: #888;
+    } */
+    .side-bar-button-divider {
+        background-color: #888;
+    }
+    /* .side-bar-button-text {
+        color: #888;
+    } */
+    .feedback-box-cover {
+        color: #ddd;
+        background-color: #222;
+    }
+    .favorite-box-cover {
+        color: #ddd;
+        background-color: #222;
+    }
+    .feedback-input-box {
+        background-color: #333;
+        color: #ddd;
+    }
+    ::-webkit-input-placeholder {
+        color: #ddd;
+    }
+    .send-feedback-button {
+        background-color: #ff34348e;
+        border-color: #7e0000;
+    }
+    .favorite-container {
+        background-color: #333;
+        color: #ddd;
+    }
+    .swal2-popup {
+        background-color: #333;
+    }
+    .swal2-title {
+        color: #ddd;
+    }
+}
