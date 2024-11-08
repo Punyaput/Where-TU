@@ -2,7 +2,7 @@ const assets = {
     "Social Complex Building 1 / อาคารเรียนรวมสังคมศาสตร์ 1 / ตึก SC / SC1": {
         "name": "Social Complex Building 1 / อาคารเรียนรวมสังคมศาสตร์ 1 / ตึก SC / SC1",
         "type": "building",
-        "headImage": "./images/SC1.jpg",
+        "headImage": "./images/SC1.webp",
         "floors": "4 Floors / 4 ชั้น",
         "places": [
             "Thammasat Well Being Center", 
@@ -22,7 +22,7 @@ const assets = {
     "Social Complex Building 2 / อาคารเรียนรวมสังคมศาสตร์ 2 / อาคารวิศิษฎ์อักษร / ตึก SC2 / SC2": {
         "name": "Social Complex Building 2 / อาคารเรียนรวมสังคมศาสตร์ 2 / อาคารวิศิษฎ์อักษร / ตึก SC2 / SC2",
         "type": "building",
-        "headImage": "./images/SC2.jpg",
+        "headImage": "./images/SC2.webp",
         "floors": "4 Floors / 4 ชั้น",
         "places": [
             "PERSON VUE Authorized Test Center Select",
@@ -38,7 +38,7 @@ const assets = {
     "Social Complex Building 3 / อาคารเรียนรวมสังคมศาสตร์ 3 / ตึก SC3 / SC3": {
         "name": "Social Complex Building 3 / อาคารเรียนรวมสังคมศาสตร์ 3 / ตึก SC3 / SC3",
         "type": "building",
-        "headImage": "./images/SC3.jpg",
+        "headImage": "./images/SC3.webp",
         "floors": "4 Floors / 4 ชั้น",
         "places": [
             "Café Amazon"
@@ -52,7 +52,7 @@ const assets = {
     "Thammasat School of Engineering / คณะวิศวกรรมศาสตร์ / TSE / ตึกวิศวะ": {
         "name": "Thammasat School of Engineering / คณะวิศวกรรมศาสตร์ / TSE / ตึกวิศวะ",
         "type": "building",
-        "headImage": "./images/ENGR.jpg",
+        "headImage": "./images/ENGR.webp",
         "floors": "7 Floors / 7 ชั้น",
         "places": [
             "TSE Co-Working Space",
@@ -69,7 +69,7 @@ const assets = {
     "Engineering Research Building / ตึกวิจัย คณะวิศวกรรมศาสตร์ มธ / RES": {
         "name": "Engineering Research Building / ตึกวิจัย คณะวิศวกรรมศาสตร์ มธ / RES",
         "type": "building",
-        "headImage": "./images/RES.jpg",
+        "headImage": "./images/RES.webp",
         "floors": "7 Floors / 7 ชั้น",
         "places": [
             "ห้องปฏิบัติการอุโมงค์ลม Wind Tunnel (ชั้น 1)",
@@ -99,7 +99,7 @@ const assets = {
     "Sirindhorn International Institute of Technology, Rangsit Campus (SIIT-RS) / สถาบันเทคโนโลยีนานาชาติสิรินธร มหาวิทยาลัยธรรมศาสตร์ - ศูนย์รังสิต / SIIT": {
         "name": "Sirindhorn International Institute of Technology, Rangsit Campus (SIIT-RS) / สถาบันเทคโนโลยีนานาชาติสิรินธร มหาวิทยาลัยธรรมศาสตร์ - ศูนย์รังสิต / SIIT",
         "type": "building",
-        "headImage": "./images/SIIT.jpg",
+        "headImage": "./images/SIIT.webp",
         "floors": "",
         "places": [
             "ME Lab@SIIT-TU",
@@ -115,7 +115,7 @@ const assets = {
     "Lecture Classroom 1 (LC-1) / อาคารบรรยายรวม 1 / บร.1 / LC1": {
         "name": "Lecture Classroom 1 (LC-1) / อาคารบรรยายรวม 1 / บร.1 / LC1",
         "type": "building",
-        "headImage": "./images/LC1.jpg",
+        "headImage": "./images/LC1.webp",
         "floors": "1 Floors / 1 ชั้น",
         "places": [
             "โปเต้ ก๊อปปี้ บร.1",
@@ -131,7 +131,7 @@ const assets = {
     "Learning Campus 2 / อาคารบรรยายรวม 2 / บร.2 / LC2 / ภาควิชาวิทยาการคอมพิวเตอร์": {
         "name": "Learning Campus 2 / อาคารบรรยายรวม 2 / บร.2 / LC2 / ภาควิชาวิทยาการคอมพิวเตอร์",
         "type": "building",
-        "headImage": "./images/LC2.jpg",
+        "headImage": "./images/LC2.webp",
         "floors": "3 Floors / 3 ชั้น",
         "places": [
             "สำนักงานภาควิชาคอมพิวเตอร์",
@@ -147,7 +147,7 @@ const assets = {
     "Learning Campus 3 / อาคารบรรยายรวม 3 / บร.3 / LC3 / ภาควิชาคณิตศาสตร์และสถิติ / สาขาวิทยาศาสตร์สิ่งแวดล้อม": {
         "name": "Learning Campus 3 / อาคารบรรยายรวม 3 / บร.3 / LC3 / ภาควิชาคณิตศาสตร์และสถิติ / สาขาวิทยาศาสตร์สิ่งแวดล้อม",
         "type": "building",
-        "headImage": "./images/LC3.jpg",
+        "headImage": "./images/LC3.webp",
         "floors": "2 Floors / 2 ชั้น",
         "places": [
             ""
@@ -161,7 +161,7 @@ const assets = {
     "Learning Campus 4 / อาคารบรรยายรวม 4 / บร.4 / LC4 / คณะวิทยาศาสตร์ฯ": {
         "name": "Learning Campus 4 / อาคารบรรยายรวม 4 / บร.4 / LC4 / คณะวิทยาศาสตร์ฯ",
         "type": "building",
-        "headImage": "./images/LC4.jpg",
+        "headImage": "./images/LC4.webp",
         "floors": "3 Floors / 3 ชั้น",
         "places": [
             "LC4 Auditorium"
@@ -175,7 +175,7 @@ const assets = {
     "Learning Campus 5 / อาคารบรรยายรวม 5 / บร.5 / LC5": {
         "name": "Learning Campus 5 / อาคารบรรยายรวม 5 / บร.5 / LC5",
         "type": "building",
-        "headImage": "./images/LC5.jpg",
+        "headImage": "./images/LC5.webp",
         "floors": "4 Floors / 4 ชั้น",
         "places": [
             "ห้องเรียนวิทยาศาสตร์ของโครงการ วมว.",
@@ -192,7 +192,7 @@ const assets = {
     "Student Activities Building A / อาคารกิจกรรมนักศึกษา A": {
         "name": "Student Activities Building A / อาคารกิจกรรมนักศึกษา A",
         "type": "building",
-        "headImage": "./images/StudentA.jpg",
+        "headImage": "./images/StudentA.webp",
         "floors": "",
         "places": [
             "HONGFOLK (TU Folksong rehearsal room)",
@@ -209,7 +209,7 @@ const assets = {
     "Student Activities Building B / อาคารกิจกรรมนักศึกษา B": {
         "name": "Student Activities Building B / อาคารกิจกรรมนักศึกษา B",
         "type": "building",
-        "headImage": "./images/StudentB.jpg",
+        "headImage": "./images/StudentB.webp",
         "floors": "",
         "places": [
             "Student Affairs Division, Thammasat University (2nd Floor) / งานทุน วินัย และสวัสดิการนักศึกษา (ชั้น 2)",
@@ -225,7 +225,7 @@ const assets = {
     "Faculty of Architecture and Planning / คณะสถาปัตยกรรมศาสตร์และการผังเมือง": {
         "name": "Faculty of Architecture and Planning / คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
         "type": "building",
-        "headImage": "./images/ARCH.jpg",
+        "headImage": "./images/ARCH.webp",
         "floors": "",
         "places": [
             "Thammasat Design School",
@@ -240,7 +240,7 @@ const assets = {
     "Thammasat Printing House / โรงพิมพ์มหาวิทยาลัยธรรมศาสตร์": {
         "name": "Thammasat Printing House / โรงพิมพ์มหาวิทยาลัยธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/PrintingHouse.jpg",
+        "headImage": "./images/PrintingHouse.webp",
         "floors": "",
         "places": [
             "Beyour home hotel"
@@ -254,7 +254,7 @@ const assets = {
     "Thammasat Stadium / สนามกีฬามหาวิทยาลัยธรรมศาสตร์": {
         "name": "Thammasat Stadium / สนามกีฬามหาวิทยาลัยธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/Stadium.jpg",
+        "headImage": "./images/Stadium.webp",
         "floors": "",
         "places": [
             "สมาคมกรีฑาแห่งประเทศไทยในพระบรมราชูปถัมภ์",
@@ -270,7 +270,7 @@ const assets = {
     "Duen Bunnak Building / อาคารเดือนบุนนาค / Thammasat University Post Office": {
         "name": "Duen Bunnak Building / อาคารเดือนบุนนาค / Thammasat University Post Office",
         "type": "building",
-        "headImage": "./images/Duenbunnak.jpg",
+        "headImage": "./images/Duenbunnak.webp",
         "floors": "",
         "places": [
             "Thammasat University Post Office / ไปรษณีย์ไทย สาขาธรรมศาสตร์รังสิต"
@@ -284,7 +284,7 @@ const assets = {
     "Dome Administration Building / อาคารโดมบริหาร / Thammasat Institute of Area Studies (TIARA) / Center for ASEAN Studies, Thammasat University / ศูนย์อาเซียนศึกษา": {
         "name": "Dome Administration Building / อาคารโดมบริหาร / Thammasat Institute of Area Studies (TIARA) / Center for ASEAN Studies, Thammasat University / ศูนย์อาเซียนศึกษา",
         "type": "building",
-        "headImage": "./images/Dome.jpg",
+        "headImage": "./images/Dome.webp",
         "floors": "",
         "places": [
             "กองพัฒนาคุณภาพ มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
@@ -303,7 +303,7 @@ const assets = {
     "สำนักงานอธิการบดี มธ ศูนย์รังสิต": {
         "name": "สำนักงานอธิการบดี มธ ศูนย์รังสิต",
         "type": "building",
-        "headImage": "./images/อธิการ.jpg",
+        "headImage": "./images/อธิการ.webp",
         "floors": "",
         "places": [
             "กองทรัพยากรมนุษย์ มหาวิทยาลัยธรรมศาสตร์"
@@ -317,7 +317,7 @@ const assets = {
     "Media Training Center / อาคารปฎิบัติการสื่อสารมวลชน": {
         "name": "Media Training Center / อาคารปฎิบัติการสื่อสารมวลชน",
         "type": "building",
-        "headImage": "./images/MTC.jpg",
+        "headImage": "./images/MTC.webp",
         "floors": "",
         "places": [
             "JC Cinema / โรงภาพยนตร์วารสารศาสตร์"
@@ -331,7 +331,7 @@ const assets = {
     "Faculty of Journalism and Mass Communication / คณะวารสารศาสตร์และสื่อสารมวลชน / Faculty of Fine and Applied Arts / คณะศิลปกรรมศาสตร์": {
         "name": "Faculty of Journalism and Mass Communication / คณะวารสารศาสตร์และสื่อสารมวลชน / Faculty of Fine and Applied Arts / คณะศิลปกรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/JCom.jpg",
+        "headImage": "./images/JCom.webp",
         "floors": "",
         "places": [
             ""
@@ -345,7 +345,7 @@ const assets = {
     "Thammasat Business School / คณะพาณิชยศาสตร์และการบัญชี / Faculty of Economics / คณะเศรษฐศาสตร์": {
         "name": "Thammasat Business School / คณะพาณิชยศาสตร์และการบัญชี / Faculty of Economics / คณะเศรษฐศาสตร์",
         "type": "building",
-        "headImage": "./images/Business.jpg",
+        "headImage": "./images/Business.webp",
         "floors": "",
         "places": [
             "Fresh Me สาขาคณะพาณิชยศาสตร์และการบัญชี มธ.รังสิต"
@@ -359,7 +359,7 @@ const assets = {
     "Faculty of Law / คณะนิติศาสตร์ / Faculty of Political Science / คณะรัฐศาสตร์ / Faculty of Social Administration / คณะสังคมสงเคราะห์ศาสตร์": {
         "name": "Faculty of Law / คณะนิติศาสตร์ / Faculty of Political Science / คณะรัฐศาสตร์ / Faculty of Social Administration / คณะสังคมสงเคราะห์ศาสตร์",
         "type": "building",
-        "headImage": "./images/Law.jpg",
+        "headImage": "./images/Law.webp",
         "floors": "",
         "places": [
             "ศุภ (SUPH.COFFEE)"
@@ -373,7 +373,7 @@ const assets = {
     "Language Institute, Thammasat University / สถาบันภาษา มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต / Faculty of Liberal Arts / คณะศิลปศาสตร์": {
         "name": "Language Institute, Thammasat University / สถาบันภาษา มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต / Faculty of Liberal Arts / คณะศิลปศาสตร์",
         "type": "building",
-        "headImage": "./images/LanguageI.jpg",
+        "headImage": "./images/LanguageI.webp",
         "floors": "",
         "places": [
             "รัานดาว(สถาบันภาษา) ร้านถ่ายเอกสาร",
@@ -389,7 +389,7 @@ const assets = {
     "Aquatic Centre, Thammasat University / ศูนย์กีฬาทางน้ำ มหาวิทยาลัยธรรมศาสตร์": {
         "name": "Aquatic Centre, Thammasat University / ศูนย์กีฬาทางน้ำ มหาวิทยาลัยธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/Aqua.jpg",
+        "headImage": "./images/Aqua.webp",
         "floors": "",
         "places": [
             "TU Fitness Thammasat University",
@@ -406,7 +406,7 @@ const assets = {
     "Gymnasium 6 Thammasat University / ยิมเนเซียม 6 ธรรมศาสตร์": {
         "name": "Gymnasium 6 Thammasat University / ยิมเนเซียม 6 ธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/GYM6.jpg",
+        "headImage": "./images/GYM6.webp",
         "floors": "",
         "places": [
             ""
@@ -420,7 +420,7 @@ const assets = {
     "Gymnasium 5 Thammasat University / ยิมเนเซียม 5 ธรรมศาสตร์": {
         "name": "Gymnasium 5 Thammasat University / ยิมเนเซียม 5 ธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/GYM5.jpg",
+        "headImage": "./images/GYM5.webp",
         "floors": "",
         "places": [
             ""
@@ -434,7 +434,7 @@ const assets = {
     "Gymnasium 4 Thammasat University / ยิมเนเซียม 4 ธรรมศาสตร์": {
         "name": "Gymnasium 4 Thammasat University / ยิมเนเซียม 4 ธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/GYM4.jpg",
+        "headImage": "./images/GYM4.webp",
         "floors": "",
         "places": [
             ""
@@ -448,7 +448,7 @@ const assets = {
     "Puey Ungphakorn Library / หอสมุดป๋วย อึ๊งภากรณ์": {
         "name": "Puey Ungphakorn Library / หอสมุดป๋วย อึ๊งภากรณ์",
         "type": "building",
-        "headImage": "./images/Puey.jpg",
+        "headImage": "./images/Puey.webp",
         "floors": "4 Floors / 4 ชั้น",
         "places": [
             "Starbucks",
@@ -469,7 +469,7 @@ const assets = {
     "Faculty of Learning Sciences and Education / คณะวิทยาการเรียนรู้และศึกษาศาสตร์ / อาคารสิริวิทยลักษณ์": {
         "name": "Faculty of Learning Sciences and Education / คณะวิทยาการเรียนรู้และศึกษาศาสตร์ / อาคารสิริวิทยลักษณ์",
         "type": "building",
-        "headImage": "./images/LearningSCI.jpg",
+        "headImage": "./images/LearningSCI.webp",
         "floors": "",
         "places": [
             "Crazyabout Cafe TU"
@@ -483,7 +483,7 @@ const assets = {
     "อาคารหอสมุดเก่า (Old Library Building)": {
         "name": "อาคารหอสมุดเก่า (Old Library Building)",
         "type": "building",
-        "headImage": "./images/OldLibrary.jpg",
+        "headImage": "./images/OldLibrary.webp",
         "floors": "",
         "places": [
             ""
@@ -497,7 +497,7 @@ const assets = {
     "Computer support and services/ สำนักงานศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร": {
         "name": "Computer support and services/ สำนักงานศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร",
         "type": "building",
-        "headImage": "./images/ComSupport.jpg",
+        "headImage": "./images/ComSupport.webp",
         "floors": "",
         "places": [
             "สำนักงานศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร",
@@ -512,7 +512,7 @@ const assets = {
     "Social Science Canteen 1 (SC1/JC) / โรงอาหารสังคมศาสตร์ 1 / โรงอาหาร JC": {
         "name": "Social Science Canteen 1 (SC1/JC) / โรงอาหารสังคมศาสตร์ 1 / โรงอาหาร JC",
         "type": "building",
-        "headImage": "./images/SC1Canteen.jpg",
+        "headImage": "./images/SC1Canteen.webp",
         "floors": "2 Floors / 2 ชั้น",
         "places": [
             "Monkey Shake ม.ธรรมศาสตร์ รังสิต",
@@ -529,7 +529,7 @@ const assets = {
     "Social Science Canteen 2 (SC2) / โรงอาหารสังคมศาสตร์ 2": {
         "name": "Social Science Canteen 2 (SC2) / โรงอาหารสังคมศาสตร์ 2",
         "type": "building",
-        "headImage": "./images/SC2Canteen.jpg",
+        "headImage": "./images/SC2Canteen.webp",
         "floors": "2 Floors / 2 ชั้น",
         "places": [
             "ร้านน้องแอมข้าวแกง",
@@ -547,7 +547,7 @@ const assets = {
     "Faculty of Engineering Canteen / โรงอาหารคณะวิศวกรรมศาสตร์": {
         "name": "Faculty of Engineering Canteen / โรงอาหารคณะวิศวกรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/ENGRCanteen.jpg",
+        "headImage": "./images/ENGRCanteen.webp",
         "floors": "",
         "places": [
             "ร้านครัวป้าสุ ร้านอาหารไทย และ ร้านอาหารอินเดีย",
@@ -564,7 +564,7 @@ const assets = {
     "Kittiyakhan Grand Auditorium / กิติยาคาร": {
         "name": "Kittiyakhan Grand Auditorium / กิติยาคาร",
         "type": "building",
-        "headImage": "./images/Kit.jpg",
+        "headImage": "./images/Kit.webp",
         "floors": "",
         "places": [
             "Auditorium and Grand Hall"
@@ -578,7 +578,7 @@ const assets = {
     "Thammasat Playhouse / โรงละคอนแห่งมหาวิทยาลัยธรรมศาสตร์": {
         "name": "Thammasat Playhouse / โรงละคอนแห่งมหาวิทยาลัยธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/Playhouse.jpg",
+        "headImage": "./images/Playhouse.webp",
         "floors": "",
         "places": [
             ""
@@ -592,7 +592,7 @@ const assets = {
     "Faculty of Science Food Court / โรงอาหารคณะวิทยาศาสตร์": {
         "name": "Faculty of Science Food Court / โรงอาหารคณะวิทยาศาสตร์",
         "type": "building",
-        "headImage": "./images/SCICanteen.jpg",
+        "headImage": "./images/SCICanteen.webp",
         "floors": "",
         "places": [
             "ร้าน 4ออ ก๋วยเตี๋ยวรสเด็ด",
@@ -607,7 +607,7 @@ const assets = {
     "Thammasat Hospital Dormitory / หอพักแพทย์ มหาวิทยาลัยธรรมศาสตร์": {
         "name": "Thammasat Hospital Dormitory / หอพักแพทย์ มหาวิทยาลัยธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/HospitalDorm.jpg",
+        "headImage": "./images/HospitalDorm.webp",
         "floors": "",
         "places": [
             ""
@@ -621,7 +621,7 @@ const assets = {
     "อาคารบริการ โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ": {
         "name": "อาคารบริการ โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
         "type": "building",
-        "headImage": "./images/อาคารบริการโรงพยาบาล.jpg",
+        "headImage": "./images/อาคารบริการโรงพยาบาล.webp",
         "floors": "",
         "places": [
             ""
@@ -635,7 +635,7 @@ const assets = {
     "Piyachart Building / อาคารปิยชาติ / Faculty of Dentistry, / คณะทันตแพทยศาสตร์ / Faculty of Public Health, / คณะสาธารณสุขศาสตร์ / Faculty of Allied Health Sciences, / คณะสหเวชศาสตร์": {
         "name": "Piyachart Building / อาคารปิยชาติ / Faculty of Dentistry, / คณะทันตแพทยศาสตร์ / Faculty of Public Health, / คณะสาธารณสุขศาสตร์ / Faculty of Allied Health Sciences, / คณะสหเวชศาสตร์",
         "type": "building",
-        "headImage": "./images/Dentistry.jpg",
+        "headImage": "./images/Dentistry.webp",
         "floors": "",
         "places": [
             ""
@@ -649,7 +649,7 @@ const assets = {
     "ศูนย์บริการสุขภาพคณะสหเวชศาสตร์ / ทันตกรรม รพ.ธรรมศาสตร์": {
         "name": "ศูนย์บริการสุขภาพคณะสหเวชศาสตร์ / ทันตกรรม รพ.ธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/ศูนย์บริการสุขภาพ.jpg",
+        "headImage": "./images/ศูนย์บริการสุขภาพ.webp",
         "floors": "",
         "places": [
             "ศูนย์กายภาพบำบัดและธาราบำบัด Physical therapist",
@@ -667,7 +667,7 @@ const assets = {
     "Kunakorn Building / อาคารคุณากร / Faculty of Medicine, Thammasat University / คณะแพทยศาสตร์ มหาวิทยาลัยธรรมศาสตร์": {
         "name": "Kunakorn Building / อาคารคุณากร / Faculty of Medicine, Thammasat University / คณะแพทยศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
         "type": "building",
-        "headImage": "./images/Medicine.jpg",
+        "headImage": "./images/Medicine.webp",
         "floors": "",
         "places": [
             ""
@@ -725,7 +725,7 @@ const assets = {
     "Canteen / โรงอาหารโรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ": {
         "name": "Canteen / โรงอาหารโรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
         "type": "building",
-        "headImage": "./images/canteen.jpg",
+        "headImage": "./images/canteen.webp",
         "floors": "",
         "places": [
             ""
@@ -739,7 +739,7 @@ const assets = {
     "Thammasat University Hospital / โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ": {
         "name": "Thammasat University Hospital / โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
         "type": "building",
-        "headImage": "./images/TUHospital.jpg",
+        "headImage": "./images/TUHospital.webp",
         "floors": "",
         "places": [
             "เลสิกหมอกอน โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
@@ -760,7 +760,7 @@ const assets = {
     "อาคารกิตติวัฒนา ศูนย์อุบัติเหตุและฉุกเฉิน / สาขาพยาธิวิทยา โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ": { //
         "name": "อาคารกิตติวัฒนา ศูนย์อุบัติเหตุและฉุกเฉิน / สาขาพยาธิวิทยา โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
         "type": "building",
-        "headImage": "./images/อาคารกิตติวัฒนา.jpg",
+        "headImage": "./images/อาคารกิตติวัฒนา.webp",
         "floors": "",
         "places": [
             "ศูนย์อุบัติเหตุและฉุกเฉิน ร.พ. ธรรมศาสตร์ฯ",
@@ -781,7 +781,7 @@ const assets = {
     "Thammasat Museum of Anthropology / พิพิธภัณฑ์ธรรมศาสตร์เฉลิมพระเกียรติ": { //
         "name": "Thammasat Museum of Anthropology / พิพิธภัณฑ์ธรรมศาสตร์เฉลิมพระเกียรติ",
         "type": "building",
-        "headImage": "./images/Museum1.jpg",
+        "headImage": "./images/Museum1.webp",
         "floors": "",
         "places": [
             ""
@@ -795,7 +795,7 @@ const assets = {
     "Thammasat University Convention Centre, Rangsit / ศูนย์ประชุมธรรมศาสตร์รังสิต": { //
         "name": "Thammasat University Convention Centre, Rangsit / ศูนย์ประชุมธรรมศาสตร์รังสิต",
         "type": "building",
-        "headImage": "./images/Convention.jpg",
+        "headImage": "./images/Convention.webp",
         "floors": "",
         "places": [
             "The Circle Thammasat",
@@ -812,7 +812,7 @@ const assets = {
     "SC1001 ห้องบรรยาย": {
         "name": "SC1001 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1001.jpg",
+        "headImage": "./images/SC1001.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -826,7 +826,7 @@ const assets = {
     "SC1002 ห้องบรรยาย": {
         "name": "SC1002 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1002.jpg",
+        "headImage": "./images/SC1002.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -840,7 +840,7 @@ const assets = {
     "SC1011 ห้องบรรยาย": {
         "name": "SC1011 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1011.jpg",
+        "headImage": "./images/SC1011.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -854,7 +854,7 @@ const assets = {
     "SC1012 ห้องบรรยาย": {
         "name": "SC1012 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1012.jpg",
+        "headImage": "./images/SC1012.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -868,7 +868,7 @@ const assets = {
     "SC1013 ห้องบรรยาย": {
         "name": "SC1013 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1013.jpg",
+        "headImage": "./images/SC1013.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -882,7 +882,7 @@ const assets = {
     "SC1014 Sound Lab": {
         "name": "SC1014 Sound Lab",
         "type": "room",
-        "headImage": "./images/SC1014.jpg",
+        "headImage": "./images/SC1014.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -896,7 +896,7 @@ const assets = {
     "SC1015 Sound Lab": {
         "name": "SC1015 Sound Lab",
         "type": "room",
-        "headImage": "./images/SC1015.jpg",
+        "headImage": "./images/SC1015.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -910,7 +910,7 @@ const assets = {
     "SC1016 ห้องบรรยาย": {
         "name": "SC1016 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1016.jpg",
+        "headImage": "./images/SC1016.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -924,7 +924,7 @@ const assets = {
     "SC1017 ห้องบรรยาย": {
         "name": "SC1017 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1017.jpg",
+        "headImage": "./images/SC1017.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -938,7 +938,7 @@ const assets = {
     "SC1018 ห้องบรรยาย": {
         "name": "SC1018 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1018.jpg",
+        "headImage": "./images/SC1018.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -952,7 +952,7 @@ const assets = {
     "SC1019 ห้องบรรยาย": {
         "name": "SC1019 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1019.jpg",
+        "headImage": "./images/SC1019.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -966,7 +966,7 @@ const assets = {
     "SC1020 ห้องบรรยาย": {
         "name": "SC1020 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1020.jpg",
+        "headImage": "./images/SC1020.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -980,7 +980,7 @@ const assets = {
     "SC1023 ห้องบรรยาย": {
         "name": "SC1023 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1023.jpg",
+        "headImage": "./images/SC1023.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -994,7 +994,7 @@ const assets = {
     "SC1024 ห้องบรรยาย": {
         "name": "SC1024 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1024.jpg",
+        "headImage": "./images/SC1024.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1008,7 +1008,7 @@ const assets = {
     "SC1025 ห้องบรรยาย": {
         "name": "SC1025 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1025.jpg",
+        "headImage": "./images/SC1025.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1022,7 +1022,7 @@ const assets = {
     "SC1026 ห้องบรรยาย": {
         "name": "SC1026 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1026.jpg",
+        "headImage": "./images/SC1026.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1036,7 +1036,7 @@ const assets = {
     "SC1035 ห้องบรรยาย": {
         "name": "SC1035 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1035.jpg",
+        "headImage": "./images/SC1035.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1050,7 +1050,7 @@ const assets = {
     "SC1036 ห้องบรรยาย": {
         "name": "SC1036 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1036.jpg",
+        "headImage": "./images/SC1036.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1064,7 +1064,7 @@ const assets = {
     "SC1037 ห้องบรรยาย": {
         "name": "SC1037 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1037.jpg",
+        "headImage": "./images/SC1037.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1078,7 +1078,7 @@ const assets = {
     "SC1038 ห้องบรรยาย": {
         "name": "SC1038 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1038.jpg",
+        "headImage": "./images/SC1038.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1092,7 +1092,7 @@ const assets = {
     "SC1041 ห้องบรรยาย": {
         "name": "SC1041 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1041.jpg",
+        "headImage": "./images/SC1041.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1106,7 +1106,7 @@ const assets = {
     "SC1042 ห้องบรรยาย": {
         "name": "SC1042 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1042.jpg",
+        "headImage": "./images/SC1042.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1120,7 +1120,7 @@ const assets = {
     "SC1043 ห้องบรรยาย": {
         "name": "SC1043 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1043.jpg",
+        "headImage": "./images/SC1043.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1134,7 +1134,7 @@ const assets = {
     "SC1044 ห้องบรรยาย": {
         "name": "SC1044 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1044.jpg",
+        "headImage": "./images/SC1044.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1148,7 +1148,7 @@ const assets = {
     "SC1045 ห้องบรรยาย": {
         "name": "SC1045 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1045.jpg",
+        "headImage": "./images/SC1045.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1162,7 +1162,7 @@ const assets = {
     "SC1046 ห้องบรรยาย": {
         "name": "SC1046 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1046.jpg",
+        "headImage": "./images/SC1046.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1176,7 +1176,7 @@ const assets = {
     "SC1047 ห้องละหมาด": {
         "name": "SC1047 ห้องละหมาด",
         "type": "room",
-        "headImage": "./images/SC1047.jpg",
+        "headImage": "./images/SC1047.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1190,7 +1190,7 @@ const assets = {
     "SC1048 สำนักงาน SC1": {
         "name": "SC1048 สำนักงาน SC1",
         "type": "room",
-        "headImage": "./images/SC1048.jpg",
+        "headImage": "./images/SC1048.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1204,7 +1204,7 @@ const assets = {
     "SC1049 ห้องบรรยาย": {
         "name": "SC1049 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1049.jpg",
+        "headImage": "./images/SC1049.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1218,7 +1218,7 @@ const assets = {
     "SC1050 ห้องบรรยาย": {
         "name": "SC1050 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1050.jpg",
+        "headImage": "./images/SC1050.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1232,7 +1232,7 @@ const assets = {
     "SC1058 ห้องบรรยาย": {
         "name": "SC1058 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1058.jpg",
+        "headImage": "./images/SC1058.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1246,7 +1246,7 @@ const assets = {
     "SC1059 ห้องบรรยาย": {
         "name": "SC1059 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1059.jpg",
+        "headImage": "./images/SC1059.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1260,7 +1260,7 @@ const assets = {
     "SC1062 Thammasat Well Being Center": {
         "name": "SC1062 Thammasat Well Being Center",
         "type": "room",
-        "headImage": "./images/SC1062.jpg",
+        "headImage": "./images/SC1062.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1274,7 +1274,7 @@ const assets = {
     "SC1063 งานอนามัย": {
         "name": "SC1063 งานอนามัย",
         "type": "room",
-        "headImage": "./images/SC1063.jpg",
+        "headImage": "./images/SC1063.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1288,7 +1288,7 @@ const assets = {
     "SC1064 ห้องกองวิชาการ": {
         "name": "SC1064 ห้องกองวิชาการ",
         "type": "room",
-        "headImage": "./images/SC1064.jpg",
+        "headImage": "./images/SC1064.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1302,7 +1302,7 @@ const assets = {
     "SC1065 ห้องวิชาศึกษาทั่วไป": {
         "name": "SC1065 ห้องวิชาศึกษาทั่วไป",
         "type": "room",
-        "headImage": "./images/SC1065.jpg",
+        "headImage": "./images/SC1065.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1316,7 +1316,7 @@ const assets = {
     "SC1066 ห้องบรรยาย": {
         "name": "SC1066 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1066.jpg",
+        "headImage": "./images/SC1066.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1330,7 +1330,7 @@ const assets = {
     "SC1067 ห้องบรรยาย": {
         "name": "SC1067 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1067.jpg",
+        "headImage": "./images/SC1067.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1344,7 +1344,7 @@ const assets = {
     "SC1068 ห้องบรรยาย": {
         "name": "SC1068 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1068.jpg",
+        "headImage": "./images/SC1068.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1358,7 +1358,7 @@ const assets = {
     "SC1069 ห้องบรรยาย": {
         "name": "SC1069 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC1069.jpg",
+        "headImage": "./images/SC1069.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1372,7 +1372,7 @@ const assets = {
     "Language Institute Test Center (LITC) ศูนย์สอบ สถาบันภาษา": {
         "name": "Language Institute Test Center (LITC) ศูนย์สอบ สถาบันภาษา",
         "type": "room",
-        "headImage": "./images/SC-LITC.jpg",
+        "headImage": "./images/SC-LITC.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1386,7 +1386,7 @@ const assets = {
     "ศูนย์อาเซียนศึกษา มหาวิทยาลัยธรรมศาสตร์": {
         "name": "ศูนย์อาเซียนศึกษา มหาวิทยาลัยธรรมศาสตร์",
         "type": "room",
-        "headImage": "./images/SC-Asean.jpg",
+        "headImage": "./images/SC-Asean.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1400,7 +1400,7 @@ const assets = {
     "SC Student Computer Lounge": {
         "name": "SC Student Computer Lounge",
         "type": "room",
-        "headImage": "./images/SC-StudentComputerLounge.jpg",
+        "headImage": "./images/SC-StudentComputerLounge.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -1414,7 +1414,7 @@ const assets = {
     "SC2001 ห้องบรรยาย": {
         "name": "SC2001 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2001.jpg",
+        "headImage": "./images/SC2001.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1428,7 +1428,7 @@ const assets = {
     "SC2002 ห้องบรรยาย": {
         "name": "SC2002 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2002.jpg",
+        "headImage": "./images/SC2002.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1442,7 +1442,7 @@ const assets = {
     "SC2003 ห้องบรรยาย": {
         "name": "SC2003 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2003.jpg",
+        "headImage": "./images/SC2003.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1456,7 +1456,7 @@ const assets = {
     "SC2004 ห้องบรรยาย": {
         "name": "SC2004 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2004.jpg",
+        "headImage": "./images/SC2004.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1470,7 +1470,7 @@ const assets = {
     "SC2005 ห้องบรรยาย": {
         "name": "SC2005 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2005.jpg",
+        "headImage": "./images/SC2005.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1484,7 +1484,7 @@ const assets = {
     "SC2006 ห้องบรรยาย": {
         "name": "SC2006 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2006.jpg",
+        "headImage": "./images/SC2006.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1498,7 +1498,7 @@ const assets = {
     "SC2007 ห้องบรรยาย": {
         "name": "SC2007 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2007.jpg",
+        "headImage": "./images/SC2007.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1512,7 +1512,7 @@ const assets = {
     "SC2008 ห้องบรรยาย": {
         "name": "SC2008 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2008.jpg",
+        "headImage": "./images/SC2008.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1526,7 +1526,7 @@ const assets = {
     "SC2009 ห้องบรรยาย": {
         "name": "SC2009 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2009.jpg",
+        "headImage": "./images/SC2009.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1540,7 +1540,7 @@ const assets = {
     "SC2010 ห้องบรรยาย": {
         "name": "SC2010 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2010.jpg",
+        "headImage": "./images/SC2010.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1554,7 +1554,7 @@ const assets = {
     "SC2013 ห้องบรรยาย": {
         "name": "SC2013 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2013.jpg",
+        "headImage": "./images/SC2013.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1568,7 +1568,7 @@ const assets = {
     "SC2014 ห้องบรรยาย": {
         "name": "SC2014 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2014.jpg",
+        "headImage": "./images/SC2014.webp",
         "floors": "ชั้น 2 / 2nd Floor",
         "places": [
             ""
@@ -1582,7 +1582,7 @@ const assets = {
     "SC2015 ห้องบรรยาย": {
         "name": "SC2015 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2015.jpg",
+        "headImage": "./images/SC2015.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1596,7 +1596,7 @@ const assets = {
     "SC2016 ห้องบรรยาย": {
         "name": "SC2016 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2016.jpg",
+        "headImage": "./images/SC2016.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1610,7 +1610,7 @@ const assets = {
     "SC2025 ห้องบรรยาย": {
         "name": "SC2025 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2025.jpg",
+        "headImage": "./images/SC2025.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1624,7 +1624,7 @@ const assets = {
     "SC2026 ห้องบรรยาย": {
         "name": "SC2026 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2026.jpg",
+        "headImage": "./images/SC2026.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1638,7 +1638,7 @@ const assets = {
     "SC2027 ห้องบรรยาย": {
         "name": "SC2027 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2027.jpg",
+        "headImage": "./images/SC2027.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1652,7 +1652,7 @@ const assets = {
     "SC2028 ห้องบรรยาย": {
         "name": "SC2028 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2028.jpg",
+        "headImage": "./images/SC2028.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1666,7 +1666,7 @@ const assets = {
     "SC2031 ห้องบรรยาย": {
         "name": "SC2031 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2031.jpg",
+        "headImage": "./images/SC2031.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1680,7 +1680,7 @@ const assets = {
     "SC2032 ห้องบรรยาย": {
         "name": "SC2032 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2032.jpg",
+        "headImage": "./images/SC2032.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1694,7 +1694,7 @@ const assets = {
     "SC2033 ห้องบรรยาย": {
         "name": "SC2033 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2033.jpg",
+        "headImage": "./images/SC2033.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1708,7 +1708,7 @@ const assets = {
     "SC2034 ห้องบรรยาย": {
         "name": "SC2034 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2034.jpg",
+        "headImage": "./images/SC2034.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1722,7 +1722,7 @@ const assets = {
     "SC2035 ห้องคอมพิวเตอร์ Com.Room": {
         "name": "SC2035 ห้องคอมพิวเตอร์ Com.Room",
         "type": "room",
-        "headImage": "./images/SC2035.jpg",
+        "headImage": "./images/SC2035.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1736,7 +1736,7 @@ const assets = {
     "SC2036 ห้องคอมพิวเตอร์ Com.Room": {
         "name": "SC2036 ห้องคอมพิวเตอร์ Com.Room",
         "type": "room",
-        "headImage": "./images/SC2036.jpg",
+        "headImage": "./images/SC2036.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1750,7 +1750,7 @@ const assets = {
     "SC2037 ห้องคอมพิวเตอร์ Com.Room": {
         "name": "SC2037 ห้องคอมพิวเตอร์ Com.Room",
         "type": "room",
-        "headImage": "./images/SC2037.jpg",
+        "headImage": "./images/SC2037.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1764,7 +1764,7 @@ const assets = {
     "SC2038 ห้องคอมพิวเตอร์ Com.Room": {
         "name": "SC2038 ห้องคอมพิวเตอร์ Com.Room",
         "type": "room",
-        "headImage": "./images/SC2038.jpg",
+        "headImage": "./images/SC2038.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1778,7 +1778,7 @@ const assets = {
     "SC2039 ห้องคอมพิวเตอร์ Com.Room": {
         "name": "SC2039 ห้องคอมพิวเตอร์ Com.Room",
         "type": "room",
-        "headImage": "./images/SC2039.jpg",
+        "headImage": "./images/SC2039.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1792,7 +1792,7 @@ const assets = {
     "SC2040 ห้องคอมพิวเตอร์ Com.Room": {
         "name": "SC2040 ห้องคอมพิวเตอร์ Com.Room",
         "type": "room",
-        "headImage": "./images/SC2040.jpg",
+        "headImage": "./images/SC2040.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1806,7 +1806,7 @@ const assets = {
     "SC2041 ห้องบรรยาย": {
         "name": "SC2041 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2041.jpg",
+        "headImage": "./images/SC2041.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1820,7 +1820,7 @@ const assets = {
     "SC2042 ห้องบรรยาย": {
         "name": "SC2042 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2042.jpg",
+        "headImage": "./images/SC2042.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1834,7 +1834,7 @@ const assets = {
     "SC2043 ห้องบรรยาย": {
         "name": "SC2043 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2043.jpg",
+        "headImage": "./images/SC2043.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1848,7 +1848,7 @@ const assets = {
     "SC2044 ห้องบรรยาย": {
         "name": "SC2044 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2044.jpg",
+        "headImage": "./images/SC2044.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1862,7 +1862,7 @@ const assets = {
     "SC2045 ห้องบรรยาย": {
         "name": "SC2045 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2045.jpg",
+        "headImage": "./images/SC2045.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1876,7 +1876,7 @@ const assets = {
     "SC2046 ห้องบรรยาย": {
         "name": "SC2046 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2046.jpg",
+        "headImage": "./images/SC2046.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1890,7 +1890,7 @@ const assets = {
     "SC2047 ห้องบรรยาย": {
         "name": "SC2047 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2047.jpg",
+        "headImage": "./images/SC2047.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1904,7 +1904,7 @@ const assets = {
     "SC2048 ห้องบรรยาย": {
         "name": "SC2048 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2048.jpg",
+        "headImage": "./images/SC2048.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1918,7 +1918,7 @@ const assets = {
     "SC2049 ห้องบรรยาย": {
         "name": "SC2049 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2049.jpg",
+        "headImage": "./images/SC2049.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1932,7 +1932,7 @@ const assets = {
     "SC2050 ห้องบรรยาย": {
         "name": "SC2050 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2050.jpg",
+        "headImage": "./images/SC2050.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1946,7 +1946,7 @@ const assets = {
     "SC2051 Active Learning": {
         "name": "SC2051 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2051.jpg",
+        "headImage": "./images/SC2051.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1960,7 +1960,7 @@ const assets = {
     "SC2052 Active Learning": {
         "name": "SC2052 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2052.jpg",
+        "headImage": "./images/SC2052.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1974,7 +1974,7 @@ const assets = {
     "SC2053 Active Learning": {
         "name": "SC2053 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2053.jpg",
+        "headImage": "./images/SC2053.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -1988,7 +1988,7 @@ const assets = {
     "SC2054 Active Learning": {
         "name": "SC2054 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2054.jpg",
+        "headImage": "./images/SC2054.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2002,7 +2002,7 @@ const assets = {
     "SC2055 Active Learning": {
         "name": "SC2055 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2055.jpg",
+        "headImage": "./images/SC2055.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2016,7 +2016,7 @@ const assets = {
     "SC2056 Active Learning": {
         "name": "SC2056 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2056.jpg",
+        "headImage": "./images/SC2056.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2030,7 +2030,7 @@ const assets = {
     "SC2057 Active Learning": {
         "name": "SC2057 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2057.jpg",
+        "headImage": "./images/SC2057.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2044,7 +2044,7 @@ const assets = {
     "SC2058 Active Learning": {
         "name": "SC2058 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2058.jpg",
+        "headImage": "./images/SC2058.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2058,7 +2058,7 @@ const assets = {
     "SC2059 Active Learning": {
         "name": "SC2059 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2059.jpg",
+        "headImage": "./images/SC2059.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2072,7 +2072,7 @@ const assets = {
     "SC2060 Active Learning": {
         "name": "SC2060 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2060.jpg",
+        "headImage": "./images/SC2060.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2086,7 +2086,7 @@ const assets = {
     "SC2061 Active Learning": {
         "name": "SC2061 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2061.jpg",
+        "headImage": "./images/SC2061.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2100,7 +2100,7 @@ const assets = {
     "SC2062 Active Learning": {
         "name": "SC2062 Active Learning",
         "type": "room",
-        "headImage": "./images/SC2062.jpg",
+        "headImage": "./images/SC2062.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -2114,7 +2114,7 @@ const assets = {
     "SC3004 ห้องบรรยาย": {
         "name": "SC3004 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3004.jpg",
+        "headImage": "./images/SC3004.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2128,7 +2128,7 @@ const assets = {
     "SC3005 ห้องบรรยาย": {
         "name": "SC3005 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3005.jpg",
+        "headImage": "./images/SC3005.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2142,7 +2142,7 @@ const assets = {
     "SC3006 ห้องบรรยาย": {
         "name": "SC3006 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3006.jpg",
+        "headImage": "./images/SC3006.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2156,7 +2156,7 @@ const assets = {
     "SC3010 ห้องบรรยาย": {
         "name": "SC3010 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3010.jpg",
+        "headImage": "./images/SC3010.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2170,7 +2170,7 @@ const assets = {
     "SC3011 ห้องบรรยาย": {
         "name": "SC3011 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3011.jpg",
+        "headImage": "./images/SC3011.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2184,7 +2184,7 @@ const assets = {
     "SC3012 ห้องบรรยาย": {
         "name": "SC3012 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3012.jpg",
+        "headImage": "./images/SC3012.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2198,7 +2198,7 @@ const assets = {
     "SC3015 ห้องบรรยาย": {
         "name": "SC3015 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3015.jpg",
+        "headImage": "./images/SC3015.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2212,7 +2212,7 @@ const assets = {
     "SC3016 ห้องบรรยาย": {
         "name": "SC3016 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3016.jpg",
+        "headImage": "./images/SC3016.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2226,7 +2226,7 @@ const assets = {
     "SC3017 ห้องบรรยาย": {
         "name": "SC3017 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3017.jpg",
+        "headImage": "./images/SC3017.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2240,7 +2240,7 @@ const assets = {
     "SC3018 ห้องบรรยาย": {
         "name": "SC3018 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3018.jpg",
+        "headImage": "./images/SC3018.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2254,7 +2254,7 @@ const assets = {
     "SC3019 ห้องบรรยาย": {
         "name": "SC3019 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3019.jpg",
+        "headImage": "./images/SC3019.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2268,7 +2268,7 @@ const assets = {
     "SC3020 ห้องบรรยาย": {
         "name": "SC3020 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3020.jpg",
+        "headImage": "./images/SC3020.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2282,7 +2282,7 @@ const assets = {
     "SC3029 ห้องบรรยาย": {
         "name": "SC3029 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3029.jpg",
+        "headImage": "./images/SC3029.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2296,7 +2296,7 @@ const assets = {
     "SC3030 ห้องบรรยาย": {
         "name": "SC3030 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3030.jpg",
+        "headImage": "./images/SC3030.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2310,7 +2310,7 @@ const assets = {
     "SC3031 ห้องบรรยาย": {
         "name": "SC3031 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3031.jpg",
+        "headImage": "./images/SC3031.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2324,7 +2324,7 @@ const assets = {
     "SC3032 ห้องบรรยาย": {
         "name": "SC3032 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3032.jpg",
+        "headImage": "./images/SC3032.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2338,7 +2338,7 @@ const assets = {
     "SC3033 ห้องบรรยาย": {
         "name": "SC3033 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3033.jpg",
+        "headImage": "./images/SC3033.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2352,7 +2352,7 @@ const assets = {
     "SC3034 ห้องบรรยาย": {
         "name": "SC3034 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3034.jpg",
+        "headImage": "./images/SC3034.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2366,7 +2366,7 @@ const assets = {
     "SC3037 ห้องบรรยาย": {
         "name": "SC3037 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3037.jpg",
+        "headImage": "./images/SC3037.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2380,7 +2380,7 @@ const assets = {
     "SC3038 ห้องบรรยาย": {
         "name": "SC3038 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3038.jpg",
+        "headImage": "./images/SC3038.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2394,7 +2394,7 @@ const assets = {
     "SC3039 ห้องบรรยาย": {
         "name": "SC3039 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3039.jpg",
+        "headImage": "./images/SC3039.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2408,7 +2408,7 @@ const assets = {
     "SC3040 ห้องบรรยาย": {
         "name": "SC3040 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3040.jpg",
+        "headImage": "./images/SC3040.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2422,7 +2422,7 @@ const assets = {
     "SC3041 ห้องบรรยาย": {
         "name": "SC3041 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3041.jpg",
+        "headImage": "./images/SC3041.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2436,7 +2436,7 @@ const assets = {
     "SC3042 ห้องบรรยาย": {
         "name": "SC3042 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3042.jpg",
+        "headImage": "./images/SC3042.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2450,7 +2450,7 @@ const assets = {
     "SC3043 ห้องบรรยาย": {
         "name": "SC3043 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3043.jpg",
+        "headImage": "./images/SC3043.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2464,7 +2464,7 @@ const assets = {
     "SC3046 ห้องบรรยาย": {
         "name": "SC3046 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3046.jpg",
+        "headImage": "./images/SC3046.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2478,7 +2478,7 @@ const assets = {
     "SC3047 ห้องบรรยาย": {
         "name": "SC3047 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3047.jpg",
+        "headImage": "./images/SC3047.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2492,7 +2492,7 @@ const assets = {
     "SC3048 ห้องบรรยาย": {
         "name": "SC3048 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3048.jpg",
+        "headImage": "./images/SC3048.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2506,7 +2506,7 @@ const assets = {
     "SC3049 ห้องบรรยาย": {
         "name": "SC3049 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3049.jpg",
+        "headImage": "./images/SC3049.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2520,7 +2520,7 @@ const assets = {
     "SC3050 ห้องบรรยาย": {
         "name": "SC3050 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3050.jpg",
+        "headImage": "./images/SC3050.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2534,7 +2534,7 @@ const assets = {
     "SC3051 ห้องบรรยาย": {
         "name": "SC3051 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3051.jpg",
+        "headImage": "./images/SC3051.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2548,7 +2548,7 @@ const assets = {
     "SC3052 ห้องบรรยาย": {
         "name": "SC3052 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3052.jpg",
+        "headImage": "./images/SC3052.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2562,7 +2562,7 @@ const assets = {
     "SC3053 ห้องบรรยาย": {
         "name": "SC3053 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3053.jpg",
+        "headImage": "./images/SC3053.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2576,7 +2576,7 @@ const assets = {
     "SC3056 ห้องบรรยาย": {
         "name": "SC3056 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3056.jpg",
+        "headImage": "./images/SC3056.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2590,7 +2590,7 @@ const assets = {
     "SC3057 ห้องบรรยาย": {
         "name": "SC3057 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3057.jpg",
+        "headImage": "./images/SC3057.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2604,7 +2604,7 @@ const assets = {
     "SC3058 ห้องบรรยาย": {
         "name": "SC3058 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC3058.jpg",
+        "headImage": "./images/SC3058.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2618,7 +2618,7 @@ const assets = {
     "SC3059 ห้องบรรยาย": {
         "name": "SC3059 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC30595.jpg",
+        "headImage": "./images/SC30595.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -2632,7 +2632,7 @@ const assets = {
     "SC4001 ห้องบรรยาย": {
         "name": "SC4001 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4001.jpg",
+        "headImage": "./images/SC4001.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2646,7 +2646,7 @@ const assets = {
     "SC4004 ห้องบรรยาย": {
         "name": "SC4004 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4004.jpg",
+        "headImage": "./images/SC4004.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2660,7 +2660,7 @@ const assets = {
     "SC4005 ห้องบรรยาย": {
         "name": "SC4005 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4005.jpg",
+        "headImage": "./images/SC4005.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2674,7 +2674,7 @@ const assets = {
     "SC4006 ห้องบรรยาย": {
         "name": "SC4006 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4006.jpg",
+        "headImage": "./images/SC4006.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2688,7 +2688,7 @@ const assets = {
     "SC4009 ห้องบรรยาย": {
         "name": "SC4009 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4009.jpg",
+        "headImage": "./images/SC4009.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2702,7 +2702,7 @@ const assets = {
     "SC4010 ห้องบรรยาย": {
         "name": "SC4010 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4010.jpg",
+        "headImage": "./images/SC4010.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2716,7 +2716,7 @@ const assets = {
     "SC4011 ห้องบรรยาย": {
         "name": "SC4011 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4011.jpg",
+        "headImage": "./images/SC4011.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2730,7 +2730,7 @@ const assets = {
     "SC4020 ห้องบรรยาย": {
         "name": "SC4020 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4020.jpg",
+        "headImage": "./images/SC4020.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2744,7 +2744,7 @@ const assets = {
     "SC4023 ห้องบรรยาย": {
         "name": "SC4023 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4023.jpg",
+        "headImage": "./images/SC4023.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2758,7 +2758,7 @@ const assets = {
     "SC4024 ห้องบรรยาย": {
         "name": "SC4024 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4024.jpg",
+        "headImage": "./images/SC4024.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2772,7 +2772,7 @@ const assets = {
     "SC4025 ห้องบรรยาย": {
         "name": "SC4025 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4025.jpg",
+        "headImage": "./images/SC4025.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2786,7 +2786,7 @@ const assets = {
     "SC4028 ห้องบรรยาย": {
         "name": "SC4028 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4028.jpg",
+        "headImage": "./images/SC4028.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2800,7 +2800,7 @@ const assets = {
     "SC4029 ห้องบรรยาย": {
         "name": "SC4029 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4029.jpg",
+        "headImage": "./images/SC4029.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2814,7 +2814,7 @@ const assets = {
     "SC4030 ห้องบรรยาย": {
         "name": "SC4030 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4030.jpg",
+        "headImage": "./images/SC4030.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2828,7 +2828,7 @@ const assets = {
     "SC4031 ห้องบรรยาย": {
         "name": "SC4031 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4031.jpg",
+        "headImage": "./images/SC4031.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2842,7 +2842,7 @@ const assets = {
     "SC4032 ห้องบรรยาย": {
         "name": "SC4032 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4032.jpg",
+        "headImage": "./images/SC4032.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2856,7 +2856,7 @@ const assets = {
     "SC4035 ห้องบรรยาย": {
         "name": "SC4035 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4035.jpg",
+        "headImage": "./images/SC4035.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2870,7 +2870,7 @@ const assets = {
     "SC4036 ห้องบรรยาย": {
         "name": "SC4036 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4036.jpg",
+        "headImage": "./images/SC4036.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2884,7 +2884,7 @@ const assets = {
     "SC4037 ห้องบรรยาย": {
         "name": "SC4037 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4037.jpg",
+        "headImage": "./images/SC4037.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2898,7 +2898,7 @@ const assets = {
     "SC4038 ห้องบรรยาย": {
         "name": "SC4038 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4038.jpg",
+        "headImage": "./images/SC4038.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2912,7 +2912,7 @@ const assets = {
     "SC4039 ห้องบรรยาย": {
         "name": "SC4039 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4039.jpg",
+        "headImage": "./images/SC4039.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2926,7 +2926,7 @@ const assets = {
     "SC4040 ห้องบรรยาย": {
         "name": "SC4040 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4040.jpg",
+        "headImage": "./images/SC4040.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2940,7 +2940,7 @@ const assets = {
     "SC4043 ห้องบรรยาย": {
         "name": "SC4043 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4043.jpg",
+        "headImage": "./images/SC4043.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2954,7 +2954,7 @@ const assets = {
     "SC4044 ห้องบรรยาย": {
         "name": "SC4044 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC4044.jpg",
+        "headImage": "./images/SC4044.webp",
         "floors": "4th Floor / ชั้น 4",
         "places": [
             ""
@@ -2968,7 +2968,7 @@ const assets = {
     "SC2-110": {
         "name": "SC2-110",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -2982,7 +2982,7 @@ const assets = {
     "SC2-111 ห้องบรรยาย": {
         "name": "SC2-111 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -2996,7 +2996,7 @@ const assets = {
     "SC2-112 ห้องบรรยาย": {
         "name": "SC2-112 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3010,7 +3010,7 @@ const assets = {
     "SC2-116 ห้องบรรยาย": {
         "name": "SC2-116 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3024,7 +3024,7 @@ const assets = {
     "SC2-117 ห้องบรรยาย": {
         "name": "SC2-117 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3038,7 +3038,7 @@ const assets = {
     "SC2-118 ห้องบรรยาย": {
         "name": "SC2-118 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3052,7 +3052,7 @@ const assets = {
     "SC2-119 ห้องบรรยาย": {
         "name": "SC2-119 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3066,7 +3066,7 @@ const assets = {
     "SC2-120 ห้องบรรยาย": {
         "name": "SC2-120 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3080,7 +3080,7 @@ const assets = {
     "SC2-121 ห้องบรรยาย": {
         "name": "SC2-121 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3094,7 +3094,7 @@ const assets = {
     "SC2-122 ห้องบรรยาย": {
         "name": "SC2-122 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3108,7 +3108,7 @@ const assets = {
     "SC2-123 ห้องบรรยาย": {
         "name": "SC2-123 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3122,7 +3122,7 @@ const assets = {
     "SC2-124 ห้องบรรยาย": {
         "name": "SC2-124 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F1.jpg",
+        "headImage": "./images/SC2F1.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
@@ -3136,7 +3136,7 @@ const assets = {
     "SC2-M01": {
         "name": "SC2-M01",
         "type": "room",
-        "headImage": "./images/SC2FM.jpg",
+        "headImage": "./images/SC2FM.webp",
         "floors": "Floor M / ชั้น M",
         "places": [
             ""
@@ -3150,7 +3150,7 @@ const assets = {
     "SC2-M02": {
         "name": "SC2-M02",
         "type": "room",
-        "headImage": "./images/SC2FM.jpg",
+        "headImage": "./images/SC2FM.webp",
         "floors": "Floor M / ชั้น M",
         "places": [
             ""
@@ -3164,7 +3164,7 @@ const assets = {
     "SC2-M03 PERSON VUE Authorized Test Center Select": {
         "name": "SC2-M03 PERSON VUE Authorized Test Center Select",
         "type": "room",
-        "headImage": "./images/SC2FM.jpg",
+        "headImage": "./images/SC2FM.webp",
         "floors": "Floor M / ชั้น M",
         "places": [
             ""
@@ -3178,7 +3178,7 @@ const assets = {
     "SC2-M04": {
         "name": "SC2-M04",
         "type": "room",
-        "headImage": "./images/SC2FM.jpg",
+        "headImage": "./images/SC2FM.webp",
         "floors": "Floor M / ชั้น M",
         "places": [
             ""
@@ -3192,7 +3192,7 @@ const assets = {
     "SC2-M05 E4SEA Regional Internship Program Coordinator Office": {
         "name": "SC2-M05 E4SEA Regional Internship Program Coordinator Office",
         "type": "room",
-        "headImage": "./images/SC2FM.jpg",
+        "headImage": "./images/SC2FM.webp",
         "floors": "Floor M / ชั้น M",
         "places": [
             ""
@@ -3206,7 +3206,7 @@ const assets = {
     "SC2-201 ห้องบรรยาย": {
         "name": "SC2-201 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3220,7 +3220,7 @@ const assets = {
     "SC2-202 ห้องบรรยาย": {
         "name": "SC2-202 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3234,7 +3234,7 @@ const assets = {
     "SC2-203 ห้องบรรยาย": {
         "name": "SC2-203 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3248,7 +3248,7 @@ const assets = {
     "SC2-204 ห้องบรรยาย": {
         "name": "SC2-204 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3262,7 +3262,7 @@ const assets = {
     "SC2-205 ห้องบรรยาย": {
         "name": "SC2-205 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3276,7 +3276,7 @@ const assets = {
     "SC2-206 ห้องบรรยาย": {
         "name": "SC2-206 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3290,7 +3290,7 @@ const assets = {
     "SC2-207 ห้องบรรยาย": {
         "name": "SC2-207 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3304,7 +3304,7 @@ const assets = {
     "SC2-208 ห้องบรรยาย": {
         "name": "SC2-208 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3318,7 +3318,7 @@ const assets = {
     "SC2-209 ห้องบรรยาย": {
         "name": "SC2-209 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3332,7 +3332,7 @@ const assets = {
     "SC2-210 ห้องบรรยาย": {
         "name": "SC2-210 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3346,7 +3346,7 @@ const assets = {
     "SC2-211 ห้องบรรยาย": {
         "name": "SC2-211 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3360,7 +3360,7 @@ const assets = {
     "SC2-212 ห้องบรรยาย": {
         "name": "SC2-212 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3374,7 +3374,7 @@ const assets = {
     "SC2-213 ห้องบรรยาย": {
         "name": "SC2-213 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F2.jpg",
+        "headImage": "./images/SC2F2.webp",
         "floors": "2nd Floor / ชั้น 2",
         "places": [
             ""
@@ -3388,7 +3388,7 @@ const assets = {
     "SC2-301 ห้องบรรยาย": {
         "name": "SC2-301 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3402,7 +3402,7 @@ const assets = {
     "SC2-302 ห้องบรรยาย": {
         "name": "SC2-302 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3416,7 +3416,7 @@ const assets = {
     "SC2-303 ห้องบรรยาย": {
         "name": "SC2-303 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3430,7 +3430,7 @@ const assets = {
     "SC2-304 ห้องบรรยาย": {
         "name": "SC2-304 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3444,7 +3444,7 @@ const assets = {
     "SC2-305 ห้องบรรยาย": {
         "name": "SC2-305 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3458,7 +3458,7 @@ const assets = {
     "SC2-306 ห้องบรรยาย": {
         "name": "SC2-306 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3472,7 +3472,7 @@ const assets = {
     "SC2-307 ห้องบรรยาย": {
         "name": "SC2-307 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3486,7 +3486,7 @@ const assets = {
     "SC2-308 ห้องบรรยาย": {
         "name": "SC2-308 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3500,7 +3500,7 @@ const assets = {
     "SC2-309 ห้องบรรยาย": {
         "name": "SC2-309 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3514,7 +3514,7 @@ const assets = {
     "SC2-310 ห้องบรรยาย": {
         "name": "SC2-310 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3528,7 +3528,7 @@ const assets = {
     "SC2-311 ห้องบรรยาย": {
         "name": "SC2-311 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3542,7 +3542,7 @@ const assets = {
     "SC2-312 ห้องบรรยาย": {
         "name": "SC2-312 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -3556,7 +3556,7 @@ const assets = {
     "SC2-313 ห้องบรรยาย": {
         "name": "SC2-313 ห้องบรรยาย",
         "type": "room",
-        "headImage": "./images/SC2F3.jpg",
+        "headImage": "./images/SC2F3.webp",
         "floors": "3rd Floor / ชั้น 3",
         "places": [
             ""
@@ -4718,7 +4718,7 @@ const assets = {
     "TSE Co-Working Space": {
         "name": "TSE Co-Working Space",
         "type": "room",
-        "headImage": "./images/CO.jpg",
+        "headImage": "./images/CO.webp",
         "floors": "1st Floor / ชั้น 1",
         "places": [
             ""
