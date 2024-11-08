@@ -6,12 +6,19 @@ function submitFeedback() {
         denyButtonText: `Cancel`
       }).then((result) => {
         if (result.isConfirmed) {
-          let feedbackContent = document.getElementById("feedbackElem").value;
-          postFeedback(feedbackContent);
-          Swal.fire("Feedback sent!", "", "success");
-          document.getElementById("feedbackElem").value = '';
-          feedbackToggle = false;
-          closeFeedbackBox();
+          if (navigator.onLine) {
+            console.log("You are online!");
+            let feedbackContent = document.getElementById("feedbackElem").value;
+            postFeedback(feedbackContent);
+            Swal.fire("Feedback sent!", "", "success");
+            document.getElementById("feedbackElem").value = '';
+            feedbackToggle = false;
+            closeFeedbackBox();
+          } else {
+            console.log("You are offline.");
+            Swal.fire("Error! Feedback is not sent.", "Please check your internet.", "error");
+          }
+
         } 
         else if (result.isDenied) {
         }
