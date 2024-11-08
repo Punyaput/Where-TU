@@ -1199,4 +1199,7 @@ html, body {
     .swal2-title {
         color: #ddd;
     }
+    #splash {
+        background-color: #222;
+    }
 }
