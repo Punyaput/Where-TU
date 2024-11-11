@@ -1202,4 +1202,7 @@ html, body {
     #splash {
         background-color: #222;
     }
+    .info-box-buildinglink {
+        background-color: #454545;
+    }
 }
