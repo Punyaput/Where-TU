@@ -24,6 +24,25 @@ inputBox.onkeyup = function() {
         $(".result-box").css("border-style", "solid")
     }
 }
+inputBox.onclick = function() {
+    let result = [];
+    let input = inputBox.value;
+    if (input.length) {
+        result = availableKeywords.filter((keyword)=>{
+            return keyword.toLowerCase().includes(input.toLowerCase());
+        });
+    }
+
+    display(result)
+
+    if(!result.length) {
+        resultsBox.innerHTML = '';
+        $(".result-box").css("border-style", "none")
+    }
+    else {
+        $(".result-box").css("border-style", "solid")
+    }
+}
 
 function display(result) {
     const content = result.map((list)=>{
