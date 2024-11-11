@@ -160,5 +160,9 @@ function selectInput(list) {
     $(document.getElementById(pinPointer)).css("visibility", "visible");
     $(document.getElementById(pinPointer)).css("transform", "translate(-830px, -590px)");
 
+    if (historyLog.indexOf(pointer) == -1) {
+        historyLog.push(pointer)
+    }
+
     openInfoBox()
 }
