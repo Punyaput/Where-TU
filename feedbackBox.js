@@ -28,6 +28,9 @@ function openFeedbackBox() {
         $('.result-box-cover').css('transform', 'translateX(410px)');
     }
     $('.feedback-box-cover').scrollTop(0);
+    if (historyLog.indexOf('feedback') == -1) {
+        historyLog.push('feedback')
+    }
 }
 
 function closeFeedbackBox() {
