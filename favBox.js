@@ -46,6 +46,9 @@ function openFavoriteBox() {
     else {
         $('.favorite-no-fav').css("display", "none");
     }
+    if (historyLog.indexOf('favorite') == -1) {
+        historyLog.push('favorite')
+    }
 }
 
 function closeFavoriteBox() {
