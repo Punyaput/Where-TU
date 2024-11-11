@@ -27,6 +27,11 @@ function openInfoBox() {
     $('.info-container').scrollTop(0);
 }
 
+function closeInfoBoxButton() {
+    closeInfoBox();
+    historyLog.push('home');
+}
+
 function closeInfoBox() {
     if (window.matchMedia("(orientation: portrait)").matches) {
         // Is Portrait
